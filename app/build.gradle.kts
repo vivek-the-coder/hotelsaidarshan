@@ -75,4 +75,6 @@ dependencies {
     // ML Kit
     implementation("com.google.mlkit:text-recognition:16.0.0")
     implementation("com.google.mlkit:digital-ink-recognition:17.0.0")
+
+    implementation("com.google.android.material:material:1.12.0")
 }
